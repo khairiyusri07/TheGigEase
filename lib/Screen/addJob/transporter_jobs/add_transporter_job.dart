@@ -73,8 +73,8 @@ class _AddTransporterJobsState extends State<AddTransporterJobs> {
           Center(
             child: Icon(
               Icons.location_pin,
-              color: Colors.red, // Choose your desired color
-              size: 40.0, // Choose your desired size
+              color: Colors.red, 
+              size: 40.0, 
             ),
           ),
           Positioned(
@@ -82,7 +82,7 @@ class _AddTransporterJobsState extends State<AddTransporterJobs> {
             left: 10,
             right: 10,
             child: SearchMapPlaceWidget(
-              apiKey: 'AIzaSyA5JnEeswUb-H-tP4qoh1sFK_2gfbHM1us',
+              apiKey: '',
               language: 'en',
               location: currentLocation,
               radius: 30000,
