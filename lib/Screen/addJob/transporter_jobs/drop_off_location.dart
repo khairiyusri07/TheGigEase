@@ -59,7 +59,7 @@ class _DropOffLocationState extends State<DropOffLocation> {
               padding: EdgeInsets.all(8),
               color: Colors.grey[200],
               child: SearchMapPlaceWidget(
-                apiKey: 'AIzaSyA5JnEeswUb-H-tP4qoh1sFK_2gfbHM1us',
+                apiKey: '',
                 language: 'en',
                 location: currentLocation,
                 radius: 30000,
