@@ -87,7 +87,7 @@ class _MapPageState extends State<MapPage> {
             left: 10,
             right: 10,
             child: SearchMapPlaceWidget(
-              apiKey: 'AIzaSyA5JnEeswUb-H-tP4qoh1sFK_2gfbHM1us',
+              apiKey: '',
               language: 'en',
               location: currentLocation,
               radius: 30000,
