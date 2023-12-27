@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662622876246",
+    "project_id": "iium-gigease",
+    "storage_bucket": "iium-gigease.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662622876246:android:2e9894dfaeb3838ab641f7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5JnEeswUb-H-tP4qoh1sFK_2gfbHM1us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
